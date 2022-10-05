@@ -2,6 +2,7 @@
 /* @import url(fontawesome/fontawesome-free-6.2.0-web/css/all.min.css); */
 @import url(header/header.css);
 @import url(main/main.css);
+@import url(about/about.css);
 
 :root{
     --preto-fosco: #232730;
